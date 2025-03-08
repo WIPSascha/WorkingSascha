@@ -1,7 +1,7 @@
 // Pas deze variabelen aan
 let progress = 10; // Pas het percentage aan (0-100)
 let pageTitle = "Sascha 3D Coms"; // Paginatitel
-let mainTitle = "What is in progress?"; // Hoofdtitel
+let mainTitle = "Heave ho Alton towers"; // Hoofdtitel
 let nextCommissionText = "Dino Chase - Koletee"; // Next commission text
 
 // Toepassen op de site
