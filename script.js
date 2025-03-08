@@ -1,5 +1,5 @@
 // Pas deze variabelen aan
-let progress = 75; // Pas het percentage aan (0-100)
+let progress = 100; // Pas het percentage aan (0-100)
 let pageTitle = "Sascha 3D Coms"; // Paginatitel
 let mainTitle = "What is in progress?"; // Hoofdtitel
 let nextCommissionText = "Dino Chase - Koletee"; // Next commission text
